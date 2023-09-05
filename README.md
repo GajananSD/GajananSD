@@ -22,6 +22,8 @@
 <p align="left">
   <a href="https://seeklogo.com/images/A/autodesk-fusion-360-logo-7F72A76397-seeklogo.com.png" target="_blank">
     <img src="https://seeklogo.com/images/A/autodesk-fusion-360-logo-7F72A76397-seeklogo.com.png" alt="Autodesk Fusion 360" width="40" height="40"/>
-  </a>
+  </a><a href="https://www.cadac.com/globalassets/producten/googleshopping/inventor-professional-shop.png" target="_blank">
+    <img src="https://www.cadac.com/globalassets/producten/googleshopping/inventor-professional-shop.png" alt="Autodesk Inventor 2018 Professional" width="40" height="40"/>
+  </a> 
 </p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gajanansd&show_icons=true&locale=en&layout=compact" alt="gajanansd" /></p>
