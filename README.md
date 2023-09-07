@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Robotics, Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://github.com/GajananSD](https://github.com/GajananSD)
+- 👨‍💻 All of my projects are available at [MyProjects](https://github.com/GajananSD?tab=repositories)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
