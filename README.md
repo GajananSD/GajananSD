@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gajanan Donge</h1>
-<h3 align="center">Final year B-Tech student (major in Mechanical engineering with minor in Computer science and engineering) at IIT Gandhinagar, Gujrat, India.</h3>
+<h3 align="center">B-Tech Graduate (major in Mechanical engineering with minor in Computer science and engineering) from IIT Gandhinagar, Gujrat, India.</h3>
 
 - 🌱 I’m currently learning **Robotics, Machine Learning**
 
