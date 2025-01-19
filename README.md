@@ -30,11 +30,11 @@
 <h3 align="left">CAD Software:</h3>
 <p align="left">
   </a>
-    <img src="https://seeklogo.com/images/A/autodesk-fusion-360-logo-7F72A76397-seeklogo.com.png" alt="Autodesk Fusion 360" width="40" height="40"/>
-  </a>
     <img src="https://www.cadac.com/globalassets/producten/googleshopping/inventor-professional-shop.png" alt="Autodesk Inventor 2018 Professional" width="40" height="40"/>
   </a> 
     <img src="https://softwarelist.oregonstate.edu/sites/softwarelist.oregonstate.edu/files/styles/software_image/public/software/solidworks.png?itok=NSYSoUYd" alt="SolidWorks" width="40" height="40"/>
+  </a>
+    <img src="https://seeklogo.com/images/A/autodesk-fusion-360-logo-7F72A76397-seeklogo.com.png" alt="Autodesk Fusion 360" width="40" height="40"/>
   </a>
 </p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gajanansd&show_icons=true&locale=en&layout=compact" alt="gajanansd" /></p>
