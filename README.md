@@ -34,7 +34,7 @@
   </a> 
     <img src="https://softwarelist.oregonstate.edu/sites/softwarelist.oregonstate.edu/files/styles/software_image/public/software/solidworks.png?itok=NSYSoUYd" alt="SolidWorks" width="40" height="40"/>
   </a>
-    <img src="https://seeklogo.com/images/A/autodesk-fusion-360-logo-7F72A76397-seeklogo.com.png" alt="Autodesk Fusion 360" width="40" height="40"/>
+    <img src="https://content.instructables.com/FTX/NBSE/L6TC99G1/FTXNBSEL6TC99G1.png?auto=webp&frame=1&width=320" width="40" height="40"/>
   </a>
 </p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gajanansd&show_icons=true&locale=en&layout=compact" alt="gajanansd" /></p>
